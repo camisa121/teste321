@@ -1,0 +1,56 @@
+----- 11/07/2017 16:23:31 - ADM Suporte (127.0.0.1) -----
+Debug Assertion 1100 Container.h 230
+Tue Jul 11 16:23:15 2017
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750
+Last Packet Types: 200 101 109 162 146 101 109 102 109 109
+Last Packet: 200 130 000 095 123 009 118 000 112 001 069 075 000 010 000 071
+Player Position: [32345,32216,7]
+Player Name: ADM Suporte (OTXServer-Global)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Player.cpp 448: exception occurred, reason:
+Control.cpp 2205: exception occurred (MessageType: 18 MaW: 4D7DCE0 MoW: 0), reason:
+Control.cpp 2170: exception occurred (Type = 18), reason:
+Dialogs.cpp 420: exception occurred, reason:
+DialogsSelectOutfit.cpp 181: exception occurred, reason:
+Objects.cpp 1071: exception occurred (Number = 974), reason:
+Container.h 230: index out of range (original i: 974, i: 973, min: 1, d: 973)
+Comment: 
+----- 11/07/2017 17:09:57 - ADM Suporte (127.0.0.1) -----
+Debug Assertion 1100 Container.h 230
+Tue Jul 11 16:39:45 2017
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750
+Last Packet Types: 200 109 101 109 109 101 109 109 101 109
+Last Packet: 200 130 000 095 123 009 118 000 112 001 069 075 000 010 000 071
+Player Position: [32346,32227,7]
+Player Name: ADM Suporte (OTXServer-Global)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Player.cpp 448: exception occurred, reason:
+Control.cpp 2205: exception occurred (MessageType: 18 MaW: 467F368 MoW: 0), reason:
+Control.cpp 2170: exception occurred (Type = 18), reason:
+Dialogs.cpp 420: exception occurred, reason:
+DialogsSelectOutfit.cpp 181: exception occurred, reason:
+Objects.cpp 1071: exception occurred (Number = 974), reason:
+Container.h 230: index out of range (original i: 974, i: 973, min: 1, d: 973)
+Comment: 
+----- 11/07/2017 19:10:07 - Ruan (25.104.123.136) -----
+Debug Assertion 1103 Network.cpp 248
+Tue Jul 11 18:58:58 2017
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Business Edition 64 Bit in BRA
+Processor: Quad Core AMD FX -4300
+Video Card: NVIDIA GeForce GTX 750 TI
+Player.cpp 344: exception occurred, reason:
+Network.cpp 890: exception occurred, reason:
+Control.cpp 1536: exception occurred (Type = -1) (MainWindow = 03581C98), reason:
+Network.cpp 292: exception occurred, reason:
+Network.cpp 279: exception occurred, reason:
+Network.cpp 248: checksum is not correct
+
